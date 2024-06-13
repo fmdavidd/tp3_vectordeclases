@@ -1,0 +1,16 @@
+.caja{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    font-family: monospace;
+    font-size: 24px;
+    color: white;
+}
+body{
+    background-color: rgb(134, 50, 50);
+}
+table{
+    background-color: white;
+    color: black;
+}
